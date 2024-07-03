@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Sonu Sharma. a Full Stack Web Developer and a Anime Fan</h2>
+<h2 align="left">Hi 👋! 
+  My name is Sonu Sharma. a Full Stack Web Developer and a Anime Fan</h2>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <img align="right" height="200" src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/fc16ea9f-218d-481c-b0c2-fa43a6d5df80"/>
 
