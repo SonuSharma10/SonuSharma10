@@ -16,7 +16,7 @@
 <div align="left">
   <h2 align="left">:hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐮𝐬𝐞:</h2>
  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank">
