@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋! 
-  My name is Sonu Sharma. a Full Stack Web Developer and a Anime Fan</h2>
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="center"><p>𝐻𝐸𝐿𝐿𝒪 𝒯𝐻𝐸𝑅𝐸 👋! </p>
+ 𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 𝐒𝐎𝐍𝐔 𝐒𝐇𝐀𝐑𝐌𝐀🫣 <P>𝐀 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐂𝐊 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 🌐 𝐀𝐍𝐃 𝐀 𝐀𝐍𝐈𝐌𝐄 𝐅𝐀𝐍 ⚔️ ;)</P></h2>
+<h2 align="left">👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
 <img align="right" height="170" src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/fc16ea9f-218d-481c-b0c2-fa43a6d5df80"/>
 
 
-- :computer:I’m a Fullstack Developer currently mastering Prompt Engineering👨‍💻.
+- :computer:I’m a Fullstack Developer currently learning Prompt Engineering👨‍💻.
 - :rocket: Always ready to collaborate for Dev Experiments.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: As a team leader, I’ve been nominated for the “Smart India Hackathon 2023” - Software Edition finale.
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking</br>
 <div></br></div>
 <div align="left">
   <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -63,4 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
