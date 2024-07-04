@@ -35,8 +35,10 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3d07b4c2-aaa5-4b65-ac2a-91c9f13b1649" alt="express" height="30"/> </a>
    <img width="12" />
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/34cb294c-556d-4f1b-bef2-9d52f14da160" alt="mongodb" height="30"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <img width="12" />
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30"/> </a>
+    <img width="12" />
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/> </a>
 
 </div>
 
