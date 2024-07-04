@@ -16,27 +16,28 @@
 <div align="left">
   <h2 align="left">:hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐮𝐬𝐞:</h2>
  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /></a>
   <img width="12" />
-  <a href="https://www.python.org/about/gettingstarted" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></a>
+  <a href="https://www.python.org/about/gettingstarted" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></a>
   <img width="12" />
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
-  <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3c76930f-b94d-42a5-9484-ff38804e2ab9" height="30" alt="c logo" /></a>
-    <img width="12" />
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3c76930f-b94d-42a5-9484-ff38804e2ab9" height="30" alt="c logo" /></a>
+  <img width="12" />
+  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/b02f45d8-b18d-4fcc-a0e9-8b2017fe3135" alt="nodejs"  height="30"/> </a>
+  <img width="12" />
+    <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3d07b4c2-aaa5-4b65-ac2a-91c9f13b1649" alt="express" height="30"/> </a>
+   <img width="12" />
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/34cb294c-556d-4f1b-bef2-9d52f14da160" alt="mongodb" height="30"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
 </div>
 
 
