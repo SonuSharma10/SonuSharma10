@@ -1,5 +1,6 @@
 <h2 align="center"><p>𝐻𝐸𝐿𝐿𝒪 𝒯𝐻𝐸𝑅𝐸 👋! </p>
  𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 𝐒𝐎𝐍𝐔 𝐒𝐇𝐀𝐑𝐌𝐀🫣 <P>𝐀 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐂𝐊 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 🌐 𝐀𝐍𝐃 𝐀 𝐀𝐍𝐈𝐌𝐄 𝐅𝐀𝐍 ⚔️ ;)</P></h2>
+ 
 <h2 align="left">👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
 <img align="right" height="170" src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/fc16ea9f-218d-481c-b0c2-fa43a6d5df80"/>
 
@@ -10,8 +11,10 @@
 - :trophy: As a team leader, I’ve been nominated for the “Smart India Hackathon 2023” - Software Edition finale.
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking</br>
 <div></br></div>
+
+
 <div align="left">
-  <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+  <h2 align="left">:hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐮𝐬𝐞:</h2>
  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
@@ -37,22 +40,13 @@
 </div>
 
 
-
-<br>
-<h2 align="left">:heart: Let's connect:</h2>
-<div align="left">
-  <a href="https://www.instagram.com/prohunter_100/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
-  <a href="https://discord.com/users/720652084827127860" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
 <br clear="both">
 
-<h3 align="center">🔥   My Stats   🔥</h3>
+
+-------
+
+
+<h3 align="center">🔥   𝐌𝐲 𝐒𝐭𝐚𝐭𝐬   🔥</h3>
 
 
 <div align="center">
@@ -62,4 +56,18 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+------
+
+
+
+<h2 align="left">:heart: 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h2>
+<div align="left">
+  <a href="https://www.instagram.com/prohunter_100/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+  <a href="https://discord.com/users/720652084827127860" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
