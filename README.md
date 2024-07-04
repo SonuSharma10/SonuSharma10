@@ -30,7 +30,7 @@
   <img width="12" />
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3c76930f-b94d-42a5-9484-ff38804e2ab9" height="30" alt="c logo" /></a>
   <img width="12" />
-  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/b02f45d8-b18d-4fcc-a0e9-8b2017fe3135" alt="nodejs"  height="30"/> </a>
+  <a  target="_blank" href="https://nodejs.org"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/b02f45d8-b18d-4fcc-a0e9-8b2017fe3135" alt="nodejs"  height="30"/> </a>
   <img width="12" />
     <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3d07b4c2-aaa5-4b65-ac2a-91c9f13b1649" alt="express" height="30"/> </a>
    <img width="12" />
