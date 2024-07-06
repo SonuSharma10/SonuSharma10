@@ -59,6 +59,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg" width="1000">
 </picture>
+ 
 </p>
 </div>
 
