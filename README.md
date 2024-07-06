@@ -53,8 +53,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false&hide=issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false&hide=issues&show=prs_merged,prs_merged_percentage" height="170" />
  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuSharma10&theme=dracula&bg_color=282a36&hide_border=false" width="900"/>
 <picture>
