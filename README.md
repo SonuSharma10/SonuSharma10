@@ -53,10 +53,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false&hide=issues&show=prs_merged,prs_merged_percentage" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&custom_title=My%20Language%20History%20🔣" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false&hide=issues&show=prs_merged,prs_merged_percentage&custom_title=My%20Stats%20❤️" height="170" />
  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuSharma10&theme=dracula&bg_color=282a36&hide_border=false" width="900"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuSharma10&theme=dracula&bg_color=282a36&hide_border=false&custom_title=My%20Contribution%20Graph📈" width="900"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg">
