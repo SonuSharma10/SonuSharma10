@@ -36,7 +36,9 @@
   <img width="12" />
   <code><img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3c76930f-b94d-42a5-9484-ff38804e2ab9" height="30" alt="c logo" /></code>
     <img width="12" />
-    <code><img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/3d07b4c2-aaa5-4b65-ac2a-91c9f13b1649" alt="express" height="30"/></code>
+    <code><img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/f2c3a9e0-7a01-4820-b809-e7082613c891" alt="npm" height="30"/></code>
+     <img width="12" />
+    <code><img src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/1eba7602-6b02-46cd-9396-e379b14a7c05" alt="npm" height="30"/></code>
 </div>
 </div>
 
@@ -51,9 +53,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&hide_border=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false" height="150" />
  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuSharma10&theme=dracula&bg_color=282a36&hide_border=false" width="900"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg">
