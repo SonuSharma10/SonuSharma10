@@ -47,13 +47,12 @@
 ---
 
 <h3 align="center" >🔥   𝐌𝐲 𝐒𝐭𝐚𝐭𝐬   🔥</h3>
-<div  align="center" > <img  height="250" src="https://streak-stats.demolab.com?user=sonusharma10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  /></div>
+<div  align="center" > <img  height="210" src="https://streak-stats.demolab.com?user=sonusharma10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  /></div>
 
 <div align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=pie&card_width=320&langs_count=7&theme=dracula&hide_border=false&custom_title=My%20Language%20History%20🔣"  alt="languages graph"  />
-  <img  height="250" height="100%" src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false&hide=issues&show=prs_merged,prs_merged_percentage&custom_title=My%20Stats%20❤️"  />
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=pie&card_width=320&langs_count=7&theme=dracula&hide_border=false&custom_title=My%20Language%20History%20🔣"  alt="languages graph"  />
+  <img  height="210" height="100%" src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false&hide=issues&show=prs_merged,prs_merged_percentage&custom_title=My%20Stats%20❤️"  />
 </div>
-
 
  
  <p align="center">
