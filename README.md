@@ -4,14 +4,12 @@
 <h2 align="left">👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
 <img align="right" height="170" src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/fc16ea9f-218d-481c-b0c2-fa43a6d5df80"/>
 
-
 - :computer:I’m a Fullstack Developer currently learning Prompt Engineering👨‍💻.
 - :rocket: Always ready to collaborate for Dev Experiments.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: As a team leader, I’ve been nominated for the “Smart India Hackathon 2023” - Software Edition finale.
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking</br>
 <div></br></div>
-
 
 <div align="left">
   <h2 align="left">:hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐮𝐬𝐞:</h2>
@@ -42,15 +40,11 @@
 </div>
 </div>
 
-
 <br clear="both">
 
-
--------
-
+---
 
 <h3 align="center" >🔥   𝐌𝐲 𝐒𝐭𝐚𝐭𝐬   🔥</h3>
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sonusharma10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
@@ -64,10 +58,7 @@
 </p>
 </div>
 
-
-------
-
-
+---
 
 <h2 align="left">:heart: 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h2>
 <div align="left">
@@ -80,3 +71,11 @@
 </div>
 <div align="right" >
 <img src="http://views.whatilearened.today/views/github/SonuSharma10/views.svg"/></div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
