@@ -54,7 +54,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&hide_border=true&theme=dracula&hide_border=false" height="150" />
  <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg" width="1000">
+</picture>
 </p>
 </div>
 
@@ -71,11 +75,3 @@
 </div>
 <div align="right" >
 <img src="http://views.whatilearened.today/views/github/SonuSharma10/views.svg"/></div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/SonuSharma10/SonuSharma10/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
