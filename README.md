@@ -75,4 +75,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
 </div>
 <div align="right" >
-<img src="http://views.whatilearened.today/views/github/SonuSharma10/views.svg"/></div>
+ 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SonuSharma10.SonuSharma10)</div>
