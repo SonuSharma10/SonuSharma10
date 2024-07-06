@@ -47,7 +47,7 @@
 ---
 
 <h3 align="center" >🔥   𝐌𝐲 𝐒𝐭𝐚𝐭𝐬   🔥</h3>
-<div  align="center" > <img  height="210" src="https://streak-stats.demolab.com?user=sonusharma10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  /></div>
+<div  align="center" > <img  height="210" src="https://streak-stats.demolab.com?user=SonuSharma10&theme=dracula&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=180" alt="streak graph"  /></div>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&custom_title=My%20Language%20History%20🔣"  alt="languages graph"  />
