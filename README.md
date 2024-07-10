@@ -50,6 +50,7 @@
 <div  align="center" > <img  height="210" src="https://streak-stats.demolab.com?user=SonuSharma10&theme=dracula&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=180" alt="streak graph"  /></div>
 
 <div align="center">
+ <code></code>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SonuSharma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&custom_title=My%20Language%20History%20🔣"  alt="languages graph"  />
   <img  height="180" height="100%" src="https://github-readme-stats.vercel.app/api?username=SonuSharma10&show_icons=true&theme=dracula&hide_border=false&hide=issues&show=prs_merged,prs_merged_percentage&custom_title=My%20Stats%20❤️&rank_icon=percentile&include_all_commits=true"  />
 </div>
