@@ -5,7 +5,7 @@
 <img align="right" height="170" src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/fc16ea9f-218d-481c-b0c2-fa43a6d5df80"/>
 
 - :computer:I’m a Fullstack Developer currently learning Prompt Engineering👨‍💻.
-- :rocket: Always ready to collaborate for Dev Experiments.
+- :rocket: Always ready to collaborate for Dev Experiments. 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: As a team leader, I’ve been nominated for the “Smart India Hackathon 2023” - Software Edition finale.
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking</br>
