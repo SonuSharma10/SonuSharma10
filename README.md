@@ -1,4 +1,4 @@
-<h2 align="center"><p>𝐻𝐸𝐿𝐿𝒪 𝒯𝐻𝐸𝑅𝐸 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27"> </p>
+<h2 align="center"><p>𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="27"> </p>
  𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 𝐒𝐎𝐍𝐔 𝐒𝐇𝐀𝐑𝐌𝐀🫣 <P>𝐀 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐂𝐊 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 🌐 𝐀𝐍𝐃 𝐀 𝐀𝐍𝐈𝐌𝐄 𝐅𝐀𝐍 ⚔️ ;)</P></h2>
    
 <h2 align="left">👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
