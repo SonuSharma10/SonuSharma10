@@ -3,7 +3,7 @@
    
 <h2 align="left">👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
 <img align="right" height="170" src="https://github.com/SonuSharma10/SonuSharma10/assets/148190964/fc16ea9f-218d-481c-b0c2-fa43a6d5df80"/>
- 
+  
 - :computer:I’m a Fullstack Developer currently learning Prompt Engineering👨‍💻.
 - :rocket: Always ready to collaborate for Dev Experiments. 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
