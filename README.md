@@ -9,7 +9,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: As a team leader, I’ve been nominated for the “Smart India Hackathon 2023” - Software Edition finale.
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking</br>
-<div></br></div>
+<div></br> </div>
 
 <div align="left">
   <h2 align="left">:hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐮𝐬𝐞:</h2>
