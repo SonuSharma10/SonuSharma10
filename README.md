@@ -46,7 +46,20 @@
  
 ---
 
-<h3 align="center" >🔥   𝐌𝐲 𝐒𝐭𝐚𝐭𝐬   🔥</h3>
+<h3 align=center>🐦‍🔥   𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐈𝐧𝐟𝐨   🐦‍🔥</h3> 
+<!-- <p align="center">
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+<!-- </p> -->
+<p align="center"> 
+  <img  align=center flex-grow=1 width=550px href="https://leetcode.com/u/SonuSharma10/" src="https://leetcard.jacoblin.cool/SonuSharma10?theme=catppuccinMocha&font=Roboto%20Slab&ext=heatmap" />  
+</p>
+ 
+---
+
+<h3 align="center" >⚡ 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐒𝐭𝐚𝐭𝐬 ⚡</h3>
 <div  align="center" > <img  height="210" src="https://streak-stats.demolab.com?user=SonuSharma10&theme=dracula&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=180" alt="streak graph"  /></div>
 
 <div align="center">
